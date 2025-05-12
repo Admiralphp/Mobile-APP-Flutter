@@ -59,7 +59,7 @@ const PRODUCTS = [
     ],
     rating: 4.8,
     reviewCount: 245,
-    description: 'Designed by Apple to complement iPhone 13, the Silicone Case with MagSafe is a delightful way to protect your iPhone. The silky, soft-touch finish of the silicone exterior feels great in your hand. And on the inside, there's a soft microfiber lining for even more protection.',
+    description: 'Designed by Apple to complement iPhone 13, the Silicone Case with MagSafe is a delightful way to protect your iPhone. The silky, soft-touch finish of the silicone exterior feels great in your hand. And on the inside, there\'s a soft microfiber lining for even more protection.',
     features: [
       'Made with high-quality silicone',
       'Soft microfiber lining inside',
@@ -107,7 +107,7 @@ const PRODUCTS = [
     ],
     rating: 4.7,
     reviewCount: 312,
-    description: 'Experience superior sound quality with Sony's industry-leading noise cancellation technology. These earbuds deliver crisp, clear audio and feature a comfortable, secure fit for all-day listening.',
+    description: 'Experience superior sound quality with Sony\'s industry-leading noise cancellation technology. These earbuds deliver crisp, clear audio and feature a comfortable, secure fit for all-day listening.',
     features: [
       'Active noise cancellation',
       'Up to 8 hours of battery life',
@@ -155,7 +155,7 @@ const PRODUCTS = [
     ],
     rating: 4.9,
     reviewCount: 423,
-    description: 'Take your music anywhere with this powerful, portable Bluetooth speaker. Delivering JBL's signature sound with deep bass and crystal-clear highs, this speaker is perfect for parties, beach days, or everyday listening.',
+    description: 'Take your music anywhere with this powerful, portable Bluetooth speaker. Delivering JBL\'s signature sound with deep bass and crystal-clear highs, this speaker is perfect for parties, beach days, or everyday listening.',
     features: [
       'Powerful, room-filling sound',
       'Waterproof design (IPX7)',
